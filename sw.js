@@ -40,7 +40,7 @@ function urlB64ToUint8Array(base64String) {
     outputArray[i] = rawData.charCodeAt(i);
   }
   return outputArray;
-}
+} 
 
 self.addEventListener('push', function(event) {
   console.log('[Service Worker] Push Received.');

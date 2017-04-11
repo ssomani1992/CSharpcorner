@@ -19,7 +19,7 @@
 
 /* eslint-env browser, es6 */
 
-'use strict';
+'use strict'; 
 
 const applicationServerPublicKey = 'BPAVSISAeZvhFUrxB1RRVUbbElA3F0-g4kvFYaMlKjKUQUM_gkFUOFKMNHp2PqXvxbvIJK3KSA9qFEK4sc3jA0Y';
 
